@@ -23,14 +23,14 @@ Want to know more?
 
 This version of Spoke suitable for testing and, potentially, for small campaigns. This won't cost any money and will not support production(aka large-scale) usage. It's a great way to practice deploying Spoke or see it in action.
 
-<a href="https://heroku.com/deploy?template=https://github.com/StateVoicesNational/Spoke/tree/v14.1.1">
+<a href="https://heroku.com/deploy?template=https://github.com/caanet/SpokeV12/tree/main">
 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
 Follow up instructions located [here](docs/HOWTO_HEROKU_DEPLOY.md).
 
-**NOTE:** You can upgrade this deployment later for use in a production setting, but keep in mind you will need to migrate data from any prior campaigns. Thus it is best to upgrade before you start any live campaigns. This will cost ~$75 ($25 dyno + \$50 postgres) a month and should be suitable for production level usage for most organizations. We recommend that if you plan to use Spoke at scale that you use [this link to deploy with a production infrastructure from the start!](https://heroku.com/deploy?template=https://github.com/StateVoicesNational/Spoke/tree/heroku-button-paid)
+**NOTE:** You can upgrade this deployment later for use in a production setting, but keep in mind you will need to migrate data from any prior campaigns. Thus it is best to upgrade before you start any live campaigns. This will cost ~$75 ($25 dyno + \$50 postgres) a month and should be suitable for production level usage for most organizations. We recommend that if you plan to use Spoke at scale that you use [this link to deploy with a production infrastructure from the start!](https://heroku.com/deploy?template=https://github.com/caanet/SpokeV12/tree/main)
 
 ### Other Options for Production Use
 
